@@ -4,7 +4,7 @@ An open-source orchestral library.
 Quick Download of SFZ version 1.1.0:
 https://github.com/sgossner/VSCO-2-CE/releases/tag/1.1.0
 
-En español: https://github.com/MrAndersj/VSCO-2-CE/tree/SFZ
+En español: https://github.com/SrAndersj/VSCO-2-CE/tree/SFZ
 (Includes instructions for use with Ardour on Ubuntu/Linux)
 
 Recorded by Sam Gossner & Simon Dalzell; Sample Cutting by Elan Hickler/Soundemote
